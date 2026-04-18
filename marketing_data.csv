@@ -1,0 +1,11 @@
+Age,Salary,SpendingScore,Gender,Response
+25,50000,60,Male,1
+30,60000,70,Female,1
+22,40000,50,Female,0
+35,80000,80,Male,1
+40,90000,30,Male,0
+28,55000,65,Female,1
+32,,70,Male,1
+45,100000,20,Female,0
+38,85000,,Male,1
+29,62000,75,Female,1
